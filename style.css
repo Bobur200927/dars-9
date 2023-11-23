@@ -81,7 +81,7 @@ body{
     /* transform: rotate(120deg); */
     /* transform: scale(2); */
 
-    /* transform: rotate(-20deg) scale(2) translate(200px); */
+    transform: rotate(-20deg) scale(2) translate(200px);
 
 }
 
