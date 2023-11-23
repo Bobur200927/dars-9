@@ -76,7 +76,7 @@ body{
     width: 200px;
     height: 200px;
     background-image: linear-gradient(to right, orange, yellow);
-    /* transform: translate(0, 400px); */
+    /* transform: translate(0, 400px);  */
     /* transform: translateX(200px); */
     /* transform: rotate(120deg); */
     /* transform: scale(2); */
